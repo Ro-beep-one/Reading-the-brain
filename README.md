@@ -1,6 +1,6 @@
 # Reading-the-brain
 
-Final project for the Building AI course
+Final project for the Building AI course project
 
 ## Summary
 
