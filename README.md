@@ -4,13 +4,12 @@ Final project for the Building AI course project
 
 ## Summary
 
-Hi! AI is used normally in a way, that an input is provided to a somehow trained algorythm which in turn provides an output. This is repeated on and on and on, this is the purpose the AI was build for. But what is between the input and the output is the AI or the AI-brain itself. It does not become visible to the 'customer' and may leave the customer uneasy as the answer of the AI is shared but not the AI (I hear its answers but it remains in the dark). With backwards query some AI may show interesting things (e.g. like neural networks which use visual pattern as input).  
-
+Hi! AI is used normally in a way, that an input is provided to a somehow trained algorythm which in turn provides an output. This is repeated on and on and on, this is the purpose the AI was build for. But what is between the input and the output: it is the trained AI or the AI-brain itself. The AI brain does not become visible to the 'customer'. It may leave the customer uneasy as the answer of the AI is shared only - I see the AI answer but the AI remains in the dark, a black box. With backwards query some AI may show interesting things which may be of some use, e.g. like neural networks for character recognition which use visual pattern as input to produce an output. A backward query may reveal which pattern of the input is more significant than others, training data may be improved based on such results. It may even de-mystify the AI.
 
 ## Background
 
-Sometimes, it can be like magic when dealing with AI: it makes me wonder how it has produced such a precise answer to my query. Actually, being at the 'customer-end' of the AI tool, I see the AI answer and I know the tool has been somehow trained and all the accumulated training is the basis for the performance it is delivering. But how does the accumulated precious pile of training look like, could it be visualized, does a secret become visible, does it make sense when I could see it?
-If it could be visualized, the 'secret' is revelaed: the brain of the AI is just infront like a picture. That visualized brain may disenchant the AI or make it even more interesting. At least I would be curious to see it.
+Sometimes, it can be like magic when dealing with AI: it makes me wonder how it has produced such a precise answer to my query. Actually, being at the 'customer-end' of the AI, I see the AI answer and I know the tool has been somehow trained and all the accumulated training is the basis for the performance it is delivering. But how does the accumulated precious pile of training look like, could it be visualized, does a secret become visible, does it make sense when I see it?
+If it could be visualized, the 'secret' of the AI is revelaed: the brain of the AI is just infront like a picture. That visualized brain may disenchant the AI (make the black box more transparent) and it could help e.g. for better selection of training data.
 
 ## How is it used?
 
