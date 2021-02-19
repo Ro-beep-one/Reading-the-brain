@@ -16,22 +16,15 @@ If it could be visualized, the 'secret' of the AI is revelaed: the brain of the 
 It can be used for neural networks which work with visual patterns to have something to look at. In neural networks signals are sent through the network with adjusted weights, based on existing connections the different products are being added up, then the sigmoid function 'fires' the result or not. It is similar for signals travelling backwards, just the sigmoid function to be inversed.
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+Data sources can be any neural network trained which had visual patterns as input (e.g. handwritten letters from MNIST databas)
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+to write the code but there may be existing code that can be used / adapted.
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+To show the 'brain' of the AI. Coming back to the beginning, for some AI may be a mystic thing. Showing the brain may de-mystify it. Maybe it can be found that some areas of input is more significant than others, training data may be improved based on such results. 
 
 
 ## Acknowledgments
